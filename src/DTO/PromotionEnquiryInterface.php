@@ -13,6 +13,6 @@ namespace App\DTO;
  *
  * @author Sudhakar Krishnan <featuriz@gmail.com>
  */
-interface PromotionEnquiryInterface {
+interface PromotionEnquiryInterface extends \JsonSerializable {
     //put your code here
 }
