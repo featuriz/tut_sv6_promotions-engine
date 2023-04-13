@@ -12,3 +12,6 @@ composer require --dev phpunit maker
 git add .
 git commit -m 'Initial Commit'
 ```
+
+## DTO
+`composer require serializer`
