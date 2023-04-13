@@ -2,12 +2,15 @@
 ---
 URL: http://127.0.0.1:8000/products/10/lowest-price
 
-| Headers: | 
-| Accept | application/json |
-| Content-Type | application/json |
-| force_fail | 500 |
+|  Headersc       |                    |  
+|  ----           |  ----              |
+|  Accept         |  application/json  |  
+|  Content-Type   |  application/json  |  
+|  force_fail     |  500               |  
 
-| __ body raw __
+
+> body raw 
+
 ```json
 {
   "quantity": 5,
